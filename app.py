@@ -2,7 +2,7 @@ import streamlit as st
 from enhance import enhance_audio
 import os
 
-st.title("AI Audio Upscaler")
+st.title("Upsamplify")
 st.write("Upload an MP3/WAV file to enhance its quality!")
 
 uploaded_file = st.file_uploader("Choose a file", type=["mp3", "wav"])
