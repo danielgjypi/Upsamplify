@@ -1,4 +1,4 @@
-# Upsamplify# 🔊 AI Audio Upscaler (DSEE/UHQ Style)  
+# 🔊 Upsamplify
 *Upscale compressed audio like Sony DSEE or Samsung UHQ using AI*  
 
 ## 🚀 Features  
